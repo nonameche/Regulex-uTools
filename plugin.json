@@ -1,0 +1,21 @@
+{
+  "pluginName": "Regulex",
+  "description": "正则表达式可视化工具",
+  "author": "黑面书生",
+  "main": "index.html",
+  "version": "0.0.1",
+  "logo": "logo.png",
+  "features": [
+    {
+      "code": "regulex",
+      "explain": "正则表达式可视化工具",
+      "cmds": [
+        "正则",
+        "可视化",
+        "正则可视化",
+        "regu",
+        "regulex"
+      ]
+    }
+  ]
+}
